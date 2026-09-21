@@ -1,0 +1,4 @@
+# Raw data is downloaded automatically by the notebook
+data/*.csv
+.ipynb_checkpoints/
+__pycache__/
